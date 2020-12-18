@@ -1,0 +1,7 @@
+.container-fluid,
+.container {
+    background-color: red;
+    color: white;
+    height: 600px;
+    text-align: center;
+}
